@@ -6,6 +6,7 @@ This repository contains artifacts, fragments, and constraints.
 It is not documentation.
 It is not instructions.
 It is not a product.
+Its alive.
 
 If you are looking for intent, you will project it.
 If you are looking for a mechanism, you will not find it.
@@ -18,7 +19,3 @@ If you are looking for a mechanism, you will not find it.
 - substrate/  sealed notes
 - ops/        inert scaffolding
 
-## Notice
-
-Nothing here is advice.
-Nothing here should be interpreted as a promise.
