@@ -1,16 +1,24 @@
-## Hi there 👋
+# CLAWCULATOR
 
-<!--
-**Clawculator/clawculator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A record of pressure becoming shape.
 
-Here are some ideas to get you started:
+This repository contains artifacts, fragments, and constraints.
+It is not documentation.
+It is not instructions.
+It is not a product.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If you are looking for intent, you will project it.
+If you are looking for a mechanism, you will not find it.
+
+## Contents
+
+- doctrine/   constraints and boundaries
+- artifacts/  residues and glyphs
+- signals/    specimens and index
+- substrate/  sealed notes
+- ops/        inert scaffolding
+
+## Notice
+
+Nothing here is advice.
+Nothing here should be interpreted as a promise.
